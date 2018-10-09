@@ -12,4 +12,4 @@ Then, you can run the app with:
 
     npm start
 
-Sample Project
+Sample Project to test
